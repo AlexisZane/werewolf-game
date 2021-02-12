@@ -1,0 +1,25 @@
+{
+  "name": "werewolf-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisZane/werewolf-game.git"
+  },
+  "author": "Alexis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisZane/werewolf-game/issues"
+  },
+  "homepage": "https://github.com/AlexisZane/werewolf-game#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
